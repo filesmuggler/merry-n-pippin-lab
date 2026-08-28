@@ -36,7 +36,7 @@ Low-cost manipulator class (SO-101-style), RGB cameras that can be moved and bro
 | Workstation GPU | Training and inference on a single consumer card |
 | Desk + mounts | Repeatable scenes |
 
-Details: [docs/hardware.md](docs/hardware.md).
+Details: [hardware/hardware.md](hardware/hardware.md).
 
 ## Experiments
 

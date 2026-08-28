@@ -6,7 +6,7 @@ If a measurement here and a post on the site disagree, treat that as a bug and [
 
 | Note | Contents |
 | --- | --- |
-| [Hardware](hardware.md) | BOM and parts models |
-| [Experiments](experiments.md) | Set of training and postprocessing experiments |
+| [Hardware](../hardware/hardware.md) | BOM and parts models |
+| [Experiments](../experiments/experiments.md) | Set of training and postprocessing experiments |
 
 
